@@ -7,7 +7,7 @@ In computer science, Discrete Structures and Graph Theory provide the foundation
 The importance of finite automata lies in their ability to provide a systematic and efficient way of solving searching and pattern-matching problems. In this article, we explore the concept of finite automata, their applications in text search and pattern matching, and their relevance in modern computer science.<br><br>
 
 
-Concept of Finite Automata
+## Concept of Finite Automata
 
 A Finite Automaton (FA) is a simple machine with:
 
