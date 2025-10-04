@@ -1,4 +1,4 @@
-### Title : Object-Oriented Concepts in Software Engineering
+# Title : Object-Oriented Concepts in Software Engineering
 
 ## Introduction
 
@@ -7,7 +7,7 @@ Software systems today are larger, more complex, and need to evolve rapidly. Tra
 This article explores the core concepts of object-oriented programming (OOP), their real-life applications, and their importance in computer science and the IT industry.<br><br>
 
 ## Core Concepts of Object-Oriented Approach
-# 1. Classes and Objects
+### 1. Classes and Objects
 
 - A class is a blueprint that defines the structure and behavior of objects.
 - An object is an instance of a class that represents a real-world entity.
@@ -17,13 +17,13 @@ Example:
 - Class: Car
 - Objects: BMW, Tesla, Audi
 
-# 2. Encapsulation
+### 2. Encapsulation
 
 - The process of hiding internal details of a class and exposing only necessary information.
 - Achieved using access modifiers like private, public, and protected.
 - Provides data security and abstraction.
 
-# 3. Inheritance
+### 3. Inheritance
 
 - Mechanism of deriving a new class (child) from an existing class (parent).
 - Promotes code reusability and reduces redundancy.
@@ -33,7 +33,7 @@ Example:
 - Parent Class: Vehicle
 - Child Classes: Car, Bike, Truck
 
-# 4. Polymorphism
+### 4. Polymorphism
 
 Means “many forms.”
 Allows the same operation to behave differently on different objects.
@@ -43,12 +43,12 @@ Allows the same operation to behave differently on different objects.
 1. Compile-time (Method Overloading)
 2. Run-time (Method Overriding)
 
-# 5. Abstraction
+### 5. Abstraction
 
 - Hiding implementation details and showing only essential features.
 - Focuses on what an object does rather than how it does it.<br><br>
 
-# Library System UML Class Diagram
+### Library System UML Class Diagram
 <img width="961" height="607" alt="image" src="https://github.com/user-attachments/assets/1abb6e9f-cd3a-470d-8364-846af92f11aa" /><br><br>
 
 
